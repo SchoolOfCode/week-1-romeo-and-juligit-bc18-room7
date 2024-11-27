@@ -7,8 +7,8 @@
 ---
 
 ## _"For never was a story of more woe than code not committed and pushed to GitHub..."_
+## _"Chris spends his days creating acronyms of his name"_
 "Romeo and julie"
-
 
 Mastering Git is like learning a dance. Before long, the rhythm of `add`, `commit`, `push`, and `pull` will feel like second nature. Soon, you'll be branching and creating Pull Requests like a pro! To get there, let’s practice—and what better way than to write a fantastic play?
 
